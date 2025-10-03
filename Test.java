@@ -3,7 +3,7 @@ public class Test {
         int num1 = 178;
         int num2 = 298;
         int sum = num1 + num2;
-
+        int diff = num1 - num2;
         System.out.println("Sum: " + sum);
     }
 }
