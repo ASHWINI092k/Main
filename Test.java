@@ -5,5 +5,6 @@ public class Test {
         int sum = num1 + num2;
         int diff = num1 - num2;
         System.out.println("Sum: " + sum);
+        System.out.println("Sum: " + sum);
     }
 }
